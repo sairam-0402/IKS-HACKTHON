@@ -4,4 +4,5 @@
 <h3> Clone the repository <br>
  Install dependencies: pip install -r requirements.txt <br>
  Run the app in the terminal: python app.py <br>
- Open in browser: http://127.0.0.1:5000/ </h3><br>
+ link appears in the terminal 
+ click the link terminal ex:http://127.0.0.1:5000/  </h3><br>
