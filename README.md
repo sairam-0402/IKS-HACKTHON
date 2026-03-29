@@ -5,4 +5,4 @@
  Install dependencies: pip install -r requirements.txt <br>
  Run the app in the terminal: python app.py <br>
  link appears in the terminal <br>
- click the link terminal ex:http://127.0.0.1:5000/  </h3><br>
+ click the link terminal <u>EXAMPLE</u>:http://127.0.0.1:5000/  </h3><br>
